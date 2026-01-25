@@ -561,6 +561,11 @@ Investigar bien en educación no consiste en eliminar la incertidumbre, sino en 
 {: .note }
 **Pregunta final para el aula.**  
 Si en el futuro realizáis un TFM, una tesis o un informe educativo, ¿qué os gustaría que alguien pudiera decir de vuestro trabajo como investigadores/as?
+---
+
+## Recursos del curso
+- 📚 **[Lecturas recomendadas](lecturas)**
+- 🧭 **[Glosario](glosario)**
 
 ---
 
