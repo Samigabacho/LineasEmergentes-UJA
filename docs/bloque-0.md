@@ -100,6 +100,7 @@ El objetivo último no es solo transmitir contenidos, sino contribuir a la const
 - 📚 **[Lecturas recomendadas](lecturas)**
 - 🧭 **[Glosario](glosario)**
 
+
 ---
 
 ## Qué deberías llevarte de este bloque
