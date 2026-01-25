@@ -96,6 +96,12 @@ El objetivo último no es solo transmitir contenidos, sino contribuir a la const
 
 ---
 
+## Recursos del curso
+- 📚 **[Lecturas recomendadas](lecturas)**
+- 🧭 **[Glosario](glosario)**
+
+---
+
 ## Qué deberías llevarte de este bloque
 
 - *Emergente* no significa *de moda*, sino **relevante, activa y exigente desde el punto de vista metodológico**.
