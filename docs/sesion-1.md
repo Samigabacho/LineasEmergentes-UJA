@@ -26,7 +26,7 @@ Al finalizar esta sesión deberías ser capaz de:
 
 ---
 
-## BLOQUE 1. La metaciencia: estudiar la ciencia desde dentro
+## Bloque 1. La metaciencia: estudiar la ciencia desde dentro
 
 ### 1.1. ¿Qué es la metaciencia?
 
@@ -153,7 +153,7 @@ La metaciencia no es una crítica externa a la ciencia, sino un mecanismo intern
 
 ---
 
-## BLOQUE 2. Mecanismos de autorregulación científica
+## Bloque 2. Mecanismos de autorregulación científica
 
 ### 2.1. De la crítica a la acción
 
@@ -319,9 +319,8 @@ La autorregulación científica no ocurre por inercia: necesita transparencia, i
 
 ---
 
-## BLOQUE 3. Implicaciones para la investigación educativa
+## Bloque 3. Implicaciones para la investigación educativa
 
-(… *contenido igual, pero ahora ya muy bien encajado* …)
 
 ---
 
