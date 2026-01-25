@@ -3,58 +3,104 @@ title: "Bloque 0 — Introducción general"
 nav_order: 2
 ---
 
-## BLOQUE 0. Introducción general
+# Bloque 0 — Introducción general
 
-### 0.1. ¿Por qué “líneas emergentes” en investigación educativa?
+{: .important }
+**Propósito del Bloque 0.**  
+Este bloque establece el marco común de la asignatura: qué entendemos por *líneas emergentes* en investigación educativa, por qué han cobrado relevancia en los últimos años y desde qué criterios vamos a analizarlas a lo largo del curso.
 
-Cuando hablamos de líneas emergentes en investigación educativa no nos referimos únicamente a nuevos temas, sino, sobre todo, a nuevas formas de entender y hacer ciencia.
+{: .tip }
+**Cómo leer este bloque.**  
+No se trata de memorizar conceptos, sino de empezar a construir un **criterio investigador** que te permita interpretar estudios, resultados y debates actuales con mayor profundidad.
 
-Durante décadas, la investigación educativa se ha centrado en:
+---
 
-- Diseños de investigación.
-- Técnicas de análisis.
-- Construcción y validación de instrumentos.
-- Todo ello sigue siendo necesario.
-Sin embargo, en los últimos años ha emergido una preocupación adicional y fundamental:
+## Objetivos del Bloque 0
 
-¿Hasta qué punto los resultados que producimos son fiables, transparentes y útiles?
+Al finalizar este bloque deberías ser capaz de:
+
+- Comprender qué significa que una línea de investigación sea *emergente*.
+- Identificar los problemas estructurales que han motivado el auge de enfoques metacientíficos.
+- Situar el papel de esta asignatura dentro de un máster con orientación investigadora.
+- Empezar a construir una **identidad investigadora crítica y reflexiva**.
+
+---
+
+## 0.1. ¿Por qué “líneas emergentes” en investigación educativa?
+
+Cuando hablamos de *líneas emergentes* en investigación educativa no nos referimos únicamente a **nuevos temas**, sino, sobre todo, a **nuevas formas de entender y hacer ciencia**.
+
+Durante décadas, la investigación educativa se ha centrado fundamentalmente en:
+
+- el diseño de investigaciones,
+- las técnicas de análisis de datos,
+- la construcción y validación de instrumentos.
+
+Todo ello sigue siendo necesario y fundamental.  
+Sin embargo, en los últimos años ha emergido una preocupación adicional y transversal:
+
+> **¿Hasta qué punto los resultados que producimos son fiables, transparentes y útiles?**
 
 Esta pregunta no surge por capricho ni por modas académicas, sino por la constatación empírica de que:
 
-- Muchos resultados científicos no se replican.
-- Los tamaños de efecto están a menudo inflados.
-- La literatura publicada ofrece una visión sesgada de la realidad.
-La investigación educativa, por sus características (contextos complejos, muestras pequeñas, medidas indirectas), no es ajena a estos problemas; de hecho, puede ser especialmente vulnerable a ellos.
+- muchos resultados científicos no se replican,
+- los tamaños de efecto aparecen con frecuencia inflados,
+- la literatura publicada ofrece una visión sesgada de la realidad investigada.
 
-### 0.2. El papel de esta asignatura en un máster de investigación
+La investigación educativa, debido a sus características —contextos complejos, muestras reducidas, medidas indirectas—, **no es ajena a estos problemas**. De hecho, puede ser especialmente vulnerable a ellos.
 
-Este máster se define formalmente como un máster con orientación investigadora, diseñado para:
+---
 
-- Dar acceso a programas de doctorado.
-- Formar investigadores/as capaces de generar conocimiento riguroso.
-En ese contexto, esta asignatura no compite con las materias metodológicas del máster. Su función es distinta y complementaria.
+## 0.2. El papel de esta asignatura en un máster de investigación
 
-Esta asignatura pretende ayudarte a:
+Este máster se define formalmente como un **máster con orientación investigadora**, diseñado para:
 
-- Comprender cómo funciona realmente la ciencia, más allá de los manuales.
-- Identificar buenas y malas prácticas de investigación.
-Desarrollar un criterio propio para:
+- dar acceso a programas de doctorado,
+- formar investigadores e investigadoras capaces de generar conocimiento riguroso.
 
-- Diseñar estudios.
-- Evaluar artículos científicos.
-- Usar resultados de investigación de forma responsable.
-En otras palabras:
+En este contexto, esta asignatura **no compite** con las materias metodológicas del máster. Su función es distinta y complementaria.
 
-Si otras asignaturas enseñan cómo analizar datos,
-esta asignatura se centra en cómo investigar bien.
+Mientras que otras asignaturas se centran en *cómo analizar datos*,  
+esta asignatura se centra en *cómo investigar bien*.
 
-### 0.3. Un objetivo transversal: construir identidad investigadora
+Más concretamente, pretende ayudarte a:
 
-Aunque no todo el alumnado continuará hacia el doctorado, esta asignatura asume algo importante:
+- comprender cómo funciona realmente la ciencia, más allá de los manuales,
+- identificar buenas y malas prácticas de investigación,
+- desarrollar un criterio propio para:
+  - diseñar estudios,
+  - evaluar artículos científicos,
+  - utilizar resultados de investigación de forma responsable.
 
-Todo egresado/a de un máster de investigación debe ser capaz de:
+---
 
-- Leer investigación científica con criterio.
-- Distinguir evidencia sólida de evidencia débil.
-- Comprender las implicaciones éticas y metodológicas de investigar.
-Por ello, a lo largo de la asignatura hablaremos al alumnado como investigadores/as en formación, aunque sea en una fase inicial.
+## 0.3. Un objetivo transversal: construir identidad investigadora
+
+Aunque no todo el alumnado continuará hacia el doctorado, esta asignatura parte de una premisa clara:
+
+{: .note }
+Todo egresado o egresada de un máster de investigación debería ser capaz de leer investigación científica con criterio, distinguir evidencia sólida de evidencia débil y comprender las implicaciones éticas y metodológicas de investigar.
+
+Por ello, a lo largo de la asignatura se hablará al alumnado **como investigadores e investigadoras en formación**, aunque se encuentren en una fase inicial de ese proceso.
+
+El objetivo último no es solo transmitir contenidos, sino contribuir a la construcción de una **identidad investigadora crítica, responsable y consciente de sus límites**.
+
+---
+
+## Para pensar (y debatir)
+
+{: .warning }
+- ¿Crees que la investigación educativa tiene un problema de calidad, de incentivos o de ambos?
+- ¿Qué riesgos tiene adoptar enfoques “emergentes” sin una base metodológica sólida?
+- ¿Puede una línea ser innovadora y, al mismo tiempo, científicamente débil?
+
+---
+
+## Qué deberías llevarte de este bloque
+
+- *Emergente* no significa *de moda*, sino **relevante, activa y exigente desde el punto de vista metodológico**.
+- La metaciencia y la educación basada en evidencias no son añadidos, sino **respuestas a problemas reales de la investigación**.
+- Esta asignatura no busca respuestas cerradas, sino **criterio investigador**.
+
+## Siguiente paso
+Continúa con **[Sesión 1 — Metaciencia y autorregulación](sesion-1)**.
