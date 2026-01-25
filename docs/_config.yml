@@ -2,14 +2,31 @@ title: "LEIE"
 description: "Material docente (2 sesiones) — Máster de investigación"
 remote_theme: just-the-docs/just-the-docs
 
-# Ajusta esto al nombre del repositorio (p.ej., /LEIE-GitHub-Pages)
+# Project Pages (username.github.io/REPO/)
 baseurl: "/LineasEmergentes-UJA"
+url: "https://samigabacho.github.io"
 
 # Idioma/interfaz
 search_enabled: true
+lang: es-ES
 
 # Apariencia (toque distinto frente a sitios anteriores)
 color_scheme: dark
+
+# Callouts (cajas tipo Nota/Clave/Importante)
+callouts:
+  note:
+    title: Nota
+    color: blue
+  warning:
+    title: Atención
+    color: yellow
+  tip:
+    title: Clave
+    color: green
+  important:
+    title: Importante
+    color: purple
 
 # Enlaces en la cabecera
 aux_links:
@@ -20,3 +37,4 @@ aux_links_new_tab: true
 # Evita warnings por plugins en Pages
 plugins:
   - jekyll-seo-tag
+
