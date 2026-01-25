@@ -30,6 +30,11 @@ Este sitio web funciona como:
 - **[Sesión 2 — Educación basada en evidencias y cierre crítico](sesion-2)**  
   Jerarquía de evidencias, implicaciones para la investigación educativa y reflexión crítica final.
 
+- 📚 [Lecturas recomendadas](lecturas)
+
+- 🧭 [Glosario](glosario)
+
+
 ---
 
 ## Cómo usar este material
