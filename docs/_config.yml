@@ -1,0 +1,22 @@
+title: "Líneas emergentes en investigación educativa"
+description: "Material docente (2 sesiones) — Máster de investigación"
+remote_theme: just-the-docs/just-the-docs
+
+# Ajusta esto al nombre del repositorio (p.ej., /LEIE-GitHub-Pages)
+baseurl: "/REPO-NAME"
+
+# Idioma/interfaz
+search_enabled: true
+
+# Apariencia (toque distinto frente a sitios anteriores)
+color_scheme: dark
+
+# Enlaces en la cabecera
+aux_links:
+  "Repositorio en GitHub":
+    - "https://github.com/USUARIO/REPO-NAME"
+aux_links_new_tab: true
+
+# Evita warnings por plugins en Pages
+plugins:
+  - jekyll-seo-tag
