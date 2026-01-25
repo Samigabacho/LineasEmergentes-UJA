@@ -50,7 +50,7 @@ Este sitio web funciona como:
 
 ## Autoría y licencia
 
-Este material docente ha sido elaborado por **Samuel Parra León**  
+Este material docente ha sido elaborado por **Samuel P. León**  
 (Universidad de Jaén).
 
 Se distribuye bajo licencia  
