@@ -45,3 +45,19 @@ Este sitio web funciona como:
 
 > **Nota**  
 > Este material no pretende ofrecer respuestas cerradas, sino servir como punto de partida para la reflexión metodológica y epistemológica en investigación educativa.
+
+---
+
+## Autoría y licencia
+
+Este material docente ha sido elaborado por **Samuel Parra León**  
+(Universidad de Jaén).
+
+Se distribuye bajo licencia  
+**Creative Commons BY-NC-SA 4.0**.
+
+Puedes reutilizar y adaptar el contenido con fines no comerciales, siempre que cites la autoría y mantengas la misma licencia.
+
+🔗 https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+
