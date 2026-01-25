@@ -97,8 +97,8 @@ El objetivo último no es solo transmitir contenidos, sino contribuir a la const
 ---
 
 ## Recursos del curso
-- 📚 **[Lecturas recomendadas](lecturas)**
-- 🧭 **[Glosario](glosario)**
+- 📚 **[Lecturas recomendadas](lecturas.md)**
+- 🧭 **[Glosario](glosario.md)**
 
 
 ---
