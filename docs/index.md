@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Líneas emergentes en Investigación Educativa
+title: LEIE
 nav_order: 1
 ---
 
