@@ -3,7 +3,7 @@ description: "Material docente (2 sesiones) — Máster de investigación"
 remote_theme: just-the-docs/just-the-docs
 
 # Project Pages (username.github.io/REPO/)
-baseurl: "/LineasEmergentes-UJA_caca"
+baseurl: "/LineasEmergentes-UJA"
 url: "https://samigabacho.github.io"
 
 # Idioma/interfaz
