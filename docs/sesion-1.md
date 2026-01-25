@@ -205,7 +205,7 @@ Documentar **antes** de recoger o analizar datos:
 - diseño,
 - plan de análisis.
 
-Habitualmente se realiza en plataformas como la **Open Science Framework**.
+Habitualmente se realiza en plataformas como la **Open Science Framework** (https://osf.io/).
 
 #### ¿Qué problema intenta resolver?
 
