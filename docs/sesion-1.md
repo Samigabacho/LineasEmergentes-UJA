@@ -324,8 +324,8 @@ La autorregulación científica no ocurre por inercia: necesita transparencia, i
 ---
 
 ## Recursos del curso
-- 📚 **[Lecturas recomendadas](lecturas)**
-- 🧭 **[Glosario](glosario)**
+- 📚 **[Lecturas recomendadas](lecturas.md)**
+- 🧭 **[Glosario](glosario.md)**
 
 ---
 
