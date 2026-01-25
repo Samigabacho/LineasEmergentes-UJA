@@ -11,7 +11,7 @@ El sitio está publicado como **GitHub Pages** y está pensado para:
 
 Este material ha sido elaborado por:
 
-**Samuel Parra León**  
+**Samuel P. León**  
 Universidad de Jaén  
 Departamento de Pedagogía
 
