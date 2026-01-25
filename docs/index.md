@@ -48,16 +48,24 @@ Este sitio web funciona como:
 
 ---
 
+---
+
 ## Autoría y licencia
 
 Este material docente ha sido elaborado por **Samuel P. León**  
-(Universidad de Jaén).
+Universidad de Jaén  
+Departamento de Pedagogía  
+
+Curso académico **2025–2026**
 
 Se distribuye bajo licencia  
-**Creative Commons BY-NC-SA 4.0**.
+**Creative Commons Attribution–NonCommercial–ShareAlike 4.0 (CC BY-NC-SA 4.0)**.
 
 Puedes reutilizar y adaptar el contenido con fines no comerciales, siempre que cites la autoría y mantengas la misma licencia.
 
 🔗 https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+{: .note }
+Este material se encuentra en **revisión y mejora continua**. Los contenidos pueden actualizarse para incorporar nuevas evidencias, ajustes conceptuales o mejoras docentes.
 
 
