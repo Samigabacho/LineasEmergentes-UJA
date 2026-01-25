@@ -321,6 +321,11 @@ La autorregulación científica no ocurre por inercia: necesita transparencia, i
 
 ## Bloque 3. Implicaciones para la investigación educativa
 
+---
+
+## Recursos del curso
+- 📚 **[Lecturas recomendadas](lecturas)**
+- 🧭 **[Glosario](glosario)**
 
 ---
 
