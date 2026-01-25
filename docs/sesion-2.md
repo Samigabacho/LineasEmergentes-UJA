@@ -27,7 +27,7 @@ Al finalizar esta sesión deberías ser capaz de:
 
 ---
 
-## BLOQUE 4. Educación basada en evidencias (EBE)
+## Bloque 4. Educación basada en evidencias (EBE)
 
 ### 4.1. ¿Por qué hablar ahora de educación basada en evidencias?
 
@@ -270,7 +270,7 @@ La educación basada en evidencias no busca certezas absolutas, sino mejores dec
 
 ---
 
-## BLOQUE 5. Jerarquía de evidencias y calidad
+## Bloque 5. Jerarquía de evidencias y calidad
 
 ### 5.1. ¿Por qué necesitamos hablar de jerarquía de evidencias?
 
@@ -430,7 +430,7 @@ La jerarquía de evidencias no decide por nosotros, pero nos ayuda a decidir mej
 
 ---
 
-## BLOQUE 6. Tensiones, límites y mirada crítica
+## Bloque 6. Tensiones, límites y mirada crítica
 
 ### 6.1. Por qué es necesario un cierre crítico
 
