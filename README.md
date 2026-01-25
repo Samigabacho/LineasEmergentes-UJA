@@ -32,6 +32,11 @@ Esto permite:
 Texto completo de la licencia:  
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
+## Nota sobre el estado del material
+
+Este material docente se encuentra **en desarrollo y revisión continua**.  
+Se actualizará progresivamente incorporando mejoras, nuevas referencias y ajustes derivados de la experiencia docente y de la evolución de la investigación educativa.
+
 ## Estructura del repositorio
 
 - `docs/` → contenido del sitio web (Markdown)
