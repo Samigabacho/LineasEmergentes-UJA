@@ -564,8 +564,8 @@ Si en el futuro realizáis un TFM, una tesis o un informe educativo, ¿qué os g
 ---
 
 ## Recursos del curso
-- 📚 **[Lecturas recomendadas](lecturas)**
-- 🧭 **[Glosario](glosario)**
+- 📚 **[Lecturas recomendadas](lecturas.md)**
+- 🧭 **[Glosario](glosario.md)**
 
 ---
 
