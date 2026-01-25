@@ -13,7 +13,10 @@ Este material ha sido elaborado por:
 
 **Samuel P. León**  
 Universidad de Jaén  
-Departamento de Pedagogía
+Departamento de Pedagogía  
+
+Curso académico **2025–2026**
+
 
 ## Licencia
 
