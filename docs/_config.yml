@@ -3,7 +3,7 @@ description: "Material docente (2 sesiones) — Máster de investigación"
 remote_theme: just-the-docs/just-the-docs
 
 # Ajusta esto al nombre del repositorio (p.ej., /LEIE-GitHub-Pages)
-baseurl: "/REPO-NAME"
+baseurl: "/LineasEmergentes-UJA"
 
 # Idioma/interfaz
 search_enabled: true
@@ -14,7 +14,7 @@ color_scheme: dark
 # Enlaces en la cabecera
 aux_links:
   "Repositorio en GitHub":
-    - "https://github.com/USUARIO/REPO-NAME"
+    - "https://github.com/Samigabacho/LineasEmergentes-UJA"
 aux_links_new_tab: true
 
 # Evita warnings por plugins en Pages
