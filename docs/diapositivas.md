@@ -1,7 +1,8 @@
 ---
-layout: default
-title: Diapositivas de las sesiones
+title: "Diapositivas"
+nav_order: 7
 ---
+
 
 # Diapositivas de las sesiones
 
