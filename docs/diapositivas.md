@@ -16,7 +16,7 @@ Las diapositivas están diseñadas como apoyo a la explicación en clase y se co
 
 ## Bloque 1 · Meta-ciencia y autorregulación
 
-- [Descargar diapositivas (PDF)](/diapositivas/LEIE Bloque 1.pdf)
+- [Descargar diapositivas (PDF)](diapositivas/LEIE Bloque 1.pdf)
 
 ---
 
