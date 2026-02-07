@@ -34,6 +34,7 @@ Este sitio web funciona como:
 
 - 🧭 [Glosario](glosario)
 
+-  [Diapositivas](diapositivas)
 
 ---
 
