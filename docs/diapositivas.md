@@ -22,4 +22,4 @@ Las diapositivas están diseñadas como apoyo a la explicación en clase y se co
 
 ## Bloque 2 · Educación basada en evidencias (EBE)
 
-- [Descargar diapositivas (PDF)](diapositivas/DIAEAE_Bloque2_Meta_analisis.pdf)
+- [Descargar diapositivas (PDF)](diapositivas/LEIE Bloque 2.pdf)
